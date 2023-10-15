@@ -21,11 +21,11 @@ of the same sequence. It has been shown to be very useful in machine reading, ab
 ### The Decoder Block
 The Decoder block is an essential component of the Transformer model that generates output sequences by interpreting encoded input sequences processed by the Encoder block. 
 It is composed of five distinct parts.
-	1 - Positional Encoder
-	2 - Masked Multi-Head Self-Attention Layer
-	3 - Encoder-Decoder Attention Layer
-	4 - Feed-Forward network
-	5 - Final Linear layer
+	1. Positional Encoder
+	2. Masked Multi-Head Self-Attention Layer
+	3. Encoder-Decoder Attention Layer
+	4. Feed-Forward network
+	5. Final Linear layer
   . 
 
    
