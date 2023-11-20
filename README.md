@@ -1,4 +1,4 @@
-# Text-Generation-Using-Transformers
+# Text-Generation-Using-Transformer Architecture 
 
 # Description:
 
